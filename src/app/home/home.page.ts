@@ -25,6 +25,22 @@ const themes = {
     light: '#F4EDF2',
     medium: '#B682A5',
     dark: '#34162A'
+  },
+  didan: {
+    primary: '#B12840',
+    secondary: '#FCFF6C',
+    tertiary: '#FE5F55',
+    medium: '#BCC2C7',
+    dark: '#F7F7FF',
+    light: '#0F0130'
+  },
+  dark: {
+    primary: '#B12840',
+    secondary: '#FCFF6C',
+    tertiary: '#FE5F55',
+    medium: '#BCC2C7',
+    dark: '#F7F7FF',
+    light: '#121212'
   }
 };
 
